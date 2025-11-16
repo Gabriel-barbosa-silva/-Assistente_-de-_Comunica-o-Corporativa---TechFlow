@@ -309,9 +309,9 @@ Este projeto foi desenvolvido para fins **acadêmicos e educacionais**.
 **Gabriel Barbosa**  
 Estudante de Fundamentos da IA Generativa
 
-📧 E-mail: gb38391934@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](#)  
-💼 GitHub: [github.com/seu-usuario](#)
+📧 E-mail: gabriel.barbosa.avlis@gmail.com(#)
+🔗 LinkedIn: [https://www.linkedin.com/in/gabriel-barbosa-silva/](#)  
+💼 GitHub: https://github.com/Gabriel-barbosa-silva/-Assistente_-de-_Comunica-o-Corporativa---TechFlow(#)
 
 ---
 
@@ -328,7 +328,7 @@ Estudante de Fundamentos da IA Generativa
 
 Dúvidas ou sugestões? 
 
-- 📧 Envie um e-mail: gb38391934@gmail.com
+- 📧 Envie um e-mail:gabriel.barbosa.avlis@gmail.com
 - 🐛 Abra uma issue: [GitHub Issues](#)
 - 💬 Discussões: [GitHub Discussions](#)
 
